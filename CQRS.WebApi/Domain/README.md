@@ -16,7 +16,7 @@
 	- Realizar o commit, adicionar regras de validacao para que so seja commitado caso não tenha nenhum erro/notifications do fluent validator
 	- Retornar o status da gravação no banco caso contrario lancamos uma notificacao de erro.
 
-
-	https://www.youtube.com/watch?v=noda1ox6NeA
-	https://medium.com/codigorefinado/bolovo-voc%C3%AA-conhece-esse-modelo-de-arquitetura-de-software-1590c778f394
-	https://www.learmoreseekmore.com/2021/03/dotnet5-sample-cqrs-mediatr-pattern.html
+# Referencias
+   https://www.youtube.com/watch?v=noda1ox6NeA
+   https://medium.com/codigorefinado/bolovo-voc%C3%AA-conhece-esse-modelo-de-arquitetura-de-software-1590c778f394
+   https://www.learmoreseekmore.com/2021/03/dotnet5-sample-cqrs-mediatr-pattern.html
