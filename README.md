@@ -17,4 +17,4 @@
  - Possibilita trabalhar com o padrão Event sourcing, onde vc detalha por logs do inicio ao fim da sua aplicação
 
 # Projeto
- ![image](https://user-images.githubusercontent.com/25963928/172072678-69ac6e90-3530-4a35-9e29-baf249b7de54.png)
+ ![image](https://user-images.githubusercontent.com/25963928/202860670-e7f50794-f94e-4c99-965f-8187991563fa.png)
